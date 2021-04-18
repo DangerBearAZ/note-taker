@@ -1,6 +1,6 @@
 #  Express.js Challenge: Note Taker
 ### Objective: create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
-### Starter coe has been provided for the front end. Task is to build back end, connect the two and deploy to Heroku 
+### Starter code has been provided for the front end. Task is to build back end, connect the two and deploy to Heroku 
 
 ## Criteria 
 #### GIVEN a note-taking application
